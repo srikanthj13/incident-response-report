@@ -50,4 +50,5 @@ This hands-on exercise provided practical experience in:
 
 ## 📄 Report
 
-The full analysis is documented in `Incidence_Response_Report.pdf`.
+You can view or download the full incident analysis here:  
+[📥 Incidence_Response_Report.pdf](https://github.com/srikanthj13/incidence-response-report/blob/main/Incidence_Response_Report.pdf)
